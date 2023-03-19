@@ -10,9 +10,6 @@ The password can include special characters. If you’re unfamiliar with these, 
 
 The following image shows the web application's appearance and functionality:
 
-
-
-
 * Generate a password when the button is clicked
   * Present a series of prompts for password criteria
     * Length of password
@@ -24,7 +21,12 @@ The following image shows the web application's appearance and functionality:
       * Special characters ($@%&*, etc)
   * Code should validate for each input and at least one character type should be selected
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+  
+  ## Screenshot
+  
+  <img width="824" alt="Screenshot 2023-03-19 at 13 00 40" src="https://user-images.githubusercontent.com/118719996/226176844-ad87b09d-9875-4b77-aa6f-96094f186bc4.png">
 
+ 
 ## Grading Requirements
 
 This challenge is graded based on the following criteria: 
@@ -65,15 +67,6 @@ This challenge is graded based on the following criteria:
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
+## Deployed link
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+https://anthonymirandac.github.io/password-generator/
